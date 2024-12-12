@@ -15,8 +15,8 @@ The project was set up in Vivado. I endsured all the design files were properly 
 <img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
 
 ### **Template Code**
-VGATop: VGA top was altered to accomodate the changes that I made when I changed colour stripes.
-VGAColourStripes:This module uses the pixel positions to regulate the colors that are output. By default, the screen was divided into several vertical stripes, each of which had a distinct hue. The screen was divided into several vertical stripes of various colors using a straightforward but efficient logic. This made it easier for me to comprehend how the coordinates of the pixels relate to the outputs on the screen. 
+**VGATop:** VGA top was altered to accomodate the changes that I made when I changed colour stripes.
+**VGAColourStripes:** This module uses the pixel positions to regulate the colors that are output. By default, the screen was divided into several vertical stripes, each of which had a distinct hue. The screen was divided into several vertical stripes of various colors using a straightforward but efficient logic. This made it easier for me to comprehend how the coordinates of the pixels relate to the outputs on the screen. 
 
 ### **Simulation**
 Making a simulation was the next stage, and it helped me comprehend how the template design operated. I checked the hsync, vsync, and color signals over time using the simulator that comes with Vivado. I could see that the design was according to the VGA's standards because the simulator's waveform output allowed me to see the timing of the pulses.
