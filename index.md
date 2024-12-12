@@ -5,11 +5,12 @@ tags: fpga vga verilog
 categories: demo
 ---
 
-Add a short welcome message or introduction here. Aim to get the viewer interested in what follows! Guideline: 1 or 2 sentences.
+Hi my name is Tyrese Mumia. This is my VGA driver Project, For my project I started off with messing around with the VGA template code to further understand how it works and operates. After trying different images I finally decided on what image I wanted to recrated which was my countrys flag (Kenya). The Kenya flag was supposed to be a simply but clean image however I underestimated it as creating a shield and spears proved to be a lot more challenging than I thought. In this report I will outline my steps I took to created the flag.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
-Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
+The start template design was a straightforward demonstaration on how to add the VGA signal creation. It originally showed straight colourful stripes, this increased my knowledge of the foundation for how I was going to attempt try and re-enact a VGA timing and signal synchronization.
+The project was set up in Vivado. I endsured all the design files were properly inputed and ready to start simulating, synthesising and implementing into my project. I used all the vivado tools to debug my code to find errors that were hard for me to notice. This was incredably helpful to see how everything worked together to properly work with the Basys 3 Artix 7 development board.
 
 <img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
 ### **Template Code**
