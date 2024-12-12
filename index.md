@@ -23,7 +23,7 @@ Making a simulation was the next stage, and it helped me comprehend how the temp
 
 The simulation had to confirm that the color regions were properly mapped to the various screen regions for this template. The above timing diagram illustrates the changes between the various color areas, confirming that the counters were increasing in accordance with the instructions that I gave it.
 ### **Synthesis**
-Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
+Synthesis, for this step I had a design template that I changed the code into a netlist which then was used on the FPGA hardware. I used synthesis on Vivado, this gave me a detailed insight into how the design
 ### **Demonstration**
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
