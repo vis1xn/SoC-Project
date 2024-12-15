@@ -30,26 +30,12 @@ Synthesis, for this step I had a design template that I changed the code into a 
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
 ### **Simulation**
-Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
+Unforunatly I wasnt able to get a simulation design, the reason being that, everytime i would run the simulation, the vivado program would crash and force me to restart.
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
-## **More Markdown Basics**
-This is a paragraph. Add an empty line to start a new paragraph.
 
-Font can be emphasised as *Italic* or **Bold**.
-
-Code can be highlighted by using `backticks`.
-
-Hyperlinks look like this: [GitHub Help](https://help.github.com/).
-
-A bullet list can be rendered as follows:
-- vectors
-- algorithms
-- iterators
-
-Images can be added by uploading them to the repository in a /docs/assets/images folder, and then rendering using HTML via githubusercontent.com as shown in the example below.
 
 <img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSrcs.png">
