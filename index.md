@@ -29,7 +29,7 @@ Synthesis, for this step I had a design template that I changed the code into a 
 
 ### **Code Adaptation**
 I adapted the code so the instead of vertical lines, i had horzontal lines split up equally to create the kenyan flag.
-<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/Screenshot 2024-12-15 161208.png">
+<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/CODE.png">
 
 ### **Simulation**
 Unforunatly I wasnt able to get a simulation design, the reason being that, everytime i would run the simulation, the vivado program would crash and force me to restart.
