@@ -28,13 +28,15 @@ Synthesis, for this step I had a design template that I changed the code into a 
 ## **My VGA Design Edit**
 
 ### **Code Adaptation**
-Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
+I adapted the code so the instead of vertical lines, i had horzontal lines split up equally to create the kenyan flag.
+<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/Screenshot 2024-12-15 161208.png">
+
 ### **Simulation**
 Unforunatly I wasnt able to get a simulation design, the reason being that, everytime i would run the simulation, the vivado program would crash and force me to restart.
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
-If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
+
 
 
 
