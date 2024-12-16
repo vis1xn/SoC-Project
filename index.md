@@ -50,7 +50,8 @@ For the synthesis process, I started with an initial design template, which I tr
 <img src="https://raw.githubusercontent.com/vis1xn/SoC-Project/main/docs/assets/images/VgaFlag.png">
 
 ### **Failed Attempt**
-After finishing my initial design, i decieded would try to add to my code by making the letters K E N Y A appear one after the other, but after numerous attempts the image did not comeout the way would have preferred
+After finishing my initial design, i decieded would try to add to my code by making the letters K E N Y A appear one after the other, but after numerous attempts the image did not comeout the way would have preferred.
+<img src="https://raw.githubusercontent.com/vis1xn/SoC-Project/main/docs/assets/images/failed.jpeg">
 
 
 
