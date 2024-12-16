@@ -37,7 +37,7 @@ I adapted the code so the instead of vertical lines, i had horzontal lines split
 ### **Simulation**
 Unforunatly I wasnt able to get a simulation design, the reason being that, everytime i would run the simulation, the vivado program would crash and force me to restart.
 ### **Synthesis**
-Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
+For the synthesis process, I started with an initial design template, which I translated into a netlist for use on the FPGA hardware. To complete this, I used the synthesis tool in Vivado. This tool provided detailed insights into the resource usage, logic mapping, and timing of the design. The reports confirmed that the template design utilized minimal logic and memory, well within the capabilities of the Basys 3 Artix-7 development board. These results showed that the basic design provided by my teacher was a straightforward combinational logic sequence with counters, making it efficient and ready for FPGA programming.
 
 ### **Demonstration**
 
