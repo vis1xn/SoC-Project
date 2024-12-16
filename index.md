@@ -8,6 +8,7 @@ categories: demo
 Hi my name is Tyrese Mumia. This is my VGA driver Project, For my project I started off with messing around with the VGA template code to further understand how it works and operates. After trying different images I finally decided on what image I wanted to recrated which was my countrys flag (Kenya). The Kenya flag was supposed to be a simply but clean image however I underestimated it as creating a shield and spears proved to be a lot more challenging than I thought. In this report I will outline my steps I took to created the flag.
 
 ## **Template VGA Design**
+
 ### **Project Set-Up**
 The start template design was a straightforward demonstaration on how to add the VGA signal creation. It originally showed straight colourful stripes, this increased my knowledge of the foundation for how I was going to attempt try and re-enact a VGA timing and signal synchronization.
 The project was set up in Vivado. I endsured all the design files were properly inputed and ready to start simulating, synthesising and implementing into my project. I used all the vivado tools to debug my code to find errors that were hard for me to notice. This was incredably helpful to see how everything worked together to properly work with the Basys 3 Artix 7 development board.
@@ -28,6 +29,8 @@ The simulation had to confirm that the color regions were properly mapped to the
 Synthesis, for this step I had a design template that I changed the code into a netlist which then was used on the FPGA hardware. I used synthesis on Vivado, this gave me a detailed insight into how the design
 
 ## **My VGA Design Edit**
+### **Heirarchy**
+<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSrcs.png">
 
 ### **Code Adaptation**
 I adapted the code so the instead of vertical lines, i had horzontal lines split up equally to create the kenyan flag.
@@ -48,5 +51,3 @@ For the synthesis process, I started with an initial design template, which I tr
 
 
 
-
-<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSrcs.png">
