@@ -40,7 +40,7 @@ Describe the synthesis & implementation outputs for your design, are there any d
 
 ### **Demonstration**
 
-<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/FLAG.png">
+<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/IMG_0349.jpeg">
 
 
 
